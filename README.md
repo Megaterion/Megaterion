@@ -49,10 +49,7 @@
 
 <br/>
 <p align="left">
-  <a href="https://www.linkedin.com/in/hannes-kohlberg-123562234/">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=megaterion&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=megaterion&theme=radical&hide_border=true">		  
-  </a>
+    <img width="49.5%" src="https://streak-stats.demolab.com?user=megaterion&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=FF0000&ring=860000&currStreakLabel=FF0000&background=0D1117">		 
 </p>
 <br>
 
@@ -62,4 +59,3 @@
   </a>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=megaterion&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
