@@ -61,3 +61,5 @@
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=megaterion&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
   </a>
 </p>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=megaterion&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
