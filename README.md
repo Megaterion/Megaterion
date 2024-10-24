@@ -48,14 +48,11 @@
 # <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
 
 <br>
+
 <p align="center">
     <img width="49.5%" src="https://streak-stats.demolab.com?user=megaterion&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=FF0000&ring=860000&currStreakLabel=FF0000&background=0D1117">		 
 </p>
 
 <br>
-<p align="center">
-  <a href="https://www.linkedin.com/in/hannes-kohlberg-123562234/">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=megaterion&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
-  </a>
-</p>
+
 
